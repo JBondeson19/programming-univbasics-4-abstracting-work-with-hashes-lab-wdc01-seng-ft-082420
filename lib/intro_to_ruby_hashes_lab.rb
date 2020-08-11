@@ -2,7 +2,7 @@ def my_hash_creator(key, value)
   { key => value }
 end
 def read_from_hash(hash, key)
-  hash = { 'name' => "Steve"}
+  hash = { 'name' => "Tzvi"}
   hash ['name']
 
 
